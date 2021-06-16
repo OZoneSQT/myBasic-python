@@ -39,7 +39,7 @@ program will run each night at 1 AM:
 Press [ctrl] + [x] to exit the crontab file, then press [y] to 
 confirm the changes to the file.
 
-Then restart the system by pressing [esc] and returning 
+Then restart the system by pressing [enter] and returning 
 to the terminal window.
 
 ```python
